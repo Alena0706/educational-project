@@ -1,1 +1,11 @@
-/* Тут будет стиль...coming soon) */
+/* Тут будет стиль...нормальный */
+
+h1, h2, h3, .nav a, .search-btn, .subscribe-form button {
+    text-transform: uppercase;
+}
+
+.hero {
+    background-image: url('images/image.png');
+
+}
+

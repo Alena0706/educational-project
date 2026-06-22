@@ -1,0 +1,24 @@
+{
+  "name": "educational-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --ignore-path .gitignore --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alena0706/educational-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alena0706/educational-project/issues"
+  },
+  "homepage": "https://github.com/Alena0706/educational-project#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.8.4"
+  }
+}
